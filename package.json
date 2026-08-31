@@ -1,0 +1,12 @@
+{
+  "name": "izipisyapi",
+  "version": "1.0.0",
+  "description": "Api para aplicacion de control de acceso a resideciales",
+  "license": "ISC",
+  "author": "Lesly Peña",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
